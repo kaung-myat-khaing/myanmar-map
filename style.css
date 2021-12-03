@@ -80,6 +80,10 @@ body{
     .info-place{
         font-size: 1em;
     }
+    .info-title{
+        margin-bottom: 0.5em;
+        font-size: 0.5em;
+    }
 }
 
 @keyframes mapAnimation {
