@@ -28,8 +28,9 @@ body{
     margin-bottom: 50px;
     animation: textAnimation 1s;
 }
-.golden{
-    text-decoration: underline var(--primary);
+.info-title-2 .golden{
+    text-decoration-line: underline;
+    text-decoration-color: var(--primary);
 }
 .description{
     margin-bottom: 50px;
